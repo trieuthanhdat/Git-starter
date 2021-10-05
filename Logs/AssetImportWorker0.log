@@ -6,6 +6,7 @@ BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, I
  COMMAND LINE ARGUMENTS:
 D:\Unity\UnityEditor\2020.3.9f1\Editor\Unity.exe
 -adb2
+-bcdd
 -batchMode
 -noUpm
 -name
