@@ -1,0 +1,44 @@
+[33mcommit 631d083c857660448bd3cf2777c9b143da224de1[m[33m ([m[1;36mHEAD -> [m[1;32mTD002_Home_carousel[m[33m)[m
+Author: thanh dat <trieuthanhdatnt@gmail.com>
+Date:   Tue Oct 5 15:13:49 2021 +0700
+
+    carousel on the home page
+
+[33mcommit 851054f15eb73e929a8bccaac4bcc1bd209fcdb4[m[33m ([m[1;32mmain[m[33m)[m
+Author: thanh dat <trieuthanhdatnt@gmail.com>
+Date:   Tue Oct 5 14:42:38 2021 +0700
+
+    cart manager added\
+
+[33mcommit efc609c72add33464a9c616860792908d1d69073[m
+Author: thanh dat <trieuthanhdatnt@gmail.com>
+Date:   Tue Oct 5 14:53:34 2021 +0700
+
+    stockManager.cs added
+
+[33mcommit b7553f270a126f22b7ec91138c3341f1b658a561[m
+Merge: 8d8e0e2 232274f
+Author: trieuthanhdat <73374992+trieuthanhdat@users.noreply.github.com>
+Date:   Tue Oct 5 14:24:17 2021 +0700
+
+    Merge pull request #1 from trieuthanhdat/TD001
+    
+    added new log in packages-update.log
+
+[33mcommit 232274f86cb27210d629d97cd6b851730b06c853[m[33m ([m[1;31morigin/TD001[m[33m, [m[1;32mTD001[m[33m)[m
+Author: thanh dat <trieuthanhdatnt@gmail.com>
+Date:   Tue Oct 5 14:04:17 2021 +0700
+
+    added new log in packages-update.log
+
+[33mcommit 8d8e0e259b150570345fce04bf79d6ada984988f[m
+Author: thanh dat <trieuthanhdatnt@gmail.com>
+Date:   Sat Oct 2 16:32:25 2021 +0700
+
+    test SSH connection
+
+[33mcommit 5c96c79ea0fcd790fe09a67e7dd36bfaf4ae1cc4[m
+Author: thanh dat <trieuthanhdatnt@gmail.com>
+Date:   Sat Oct 2 16:18:06 2021 +0700
+
+    first commit
